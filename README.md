@@ -8,7 +8,6 @@ Welcome to the GIS London Elevation Analysis Repository — a sophisticated expl
 
 - **QGIS Workflow:**
   - Utilized QGIS processing tools and algorithms for robust spatial analysis.
-  - Implemented Python scripts within QGIS for automation and customization of analytical workflows.
 
 - **Raster Data Manipulation:**
   - Processed high-resolution raster maps to extract precise elevation contours.
@@ -22,8 +21,3 @@ Welcome to the GIS London Elevation Analysis Repository — a sophisticated expl
   - Utilized QGIS capabilities to create visually stunning 3D visualizations of the elevation landscape.
   - Integrated elevation data with other spatial layers for a comprehensive 3D model.
 
-- **Google Earth Integration with KML:**
-  - Exported data to Keyhole Markup Language (KML) for seamless integration with Google Earth.
-  - Demonstrated advanced symbology and styling options for enhanced visualization.
-
-## Repository Structure
